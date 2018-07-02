@@ -74,3 +74,8 @@ Right: Original
 This part was really interesting to me. The 1UP stick's cogs are much smaller in diameter, which, as you'll see, results in larger gears to make up for such a small cog diameter.
 
 Something also interesting (and rather hard to see in the images) is that the number of optical notches in the cog wheel (the perforations in the wheel that the cog is attached to) is less on the 1UP bowl than it is on the original bowl. I haven't noticed any less accuracy in input movement, but this seems to me like it would result in less input vectors being delivered to the machine hardware.
+
+
+### Conclusion
+
+Overall I'd give it an 8.5/10. It's like buying an 8-9/10 joystick. It remarkably has the same feel as an OG joystick, and I can see this being a solid replacement joystick in the future if they work out the kinks. Super happy about 1up Retro and their attention to detail.
