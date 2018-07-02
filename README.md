@@ -2,7 +2,7 @@
 
 Hey what's up, I wanted to make an analysis post about what I'm calling the "1UP Stick." The 1UP Stick is a Nintendo 64 replacement stick assembly made by [1UP Retro](https://1upretro.com/). As a competetive Super Smash Bros 64 player, a good joystick is paramount. Below is my analysis of the stick.
 
-I get pretty deep into the weeds, but if you're anything like me, you'll enjoy the thorougness. I make a few references to movement patterns made in Smash 64, so if you don't play that game at a competetive level, you might not understand the references. You can find the stick [here on Amazon](https://www.amazon.com/Nintendo-64-Analog-Replacement-Joystick-Part/dp/B077H95N5M/ref=as_sl_pc_tf_til?tag=renshijie86-20&linkCode=w00&linkId=6563a29ca57562e7f6e6ac409796504d&creativeASIN=B077H95N5M).
+I get pretty deep into the weeds, but if you're anything like me, you'll enjoy the thoroughness. I make a few references to movement patterns made in Smash 64, so if you don't play that game at a competetive level, you might not understand the references. You can find the stick [here on Amazon](https://www.amazon.com/Nintendo-64-Analog-Replacement-Joystick-Part/dp/B077H95N5M/ref=as_sl_pc_tf_til?tag=renshijie86-20&linkCode=w00&linkId=6563a29ca57562e7f6e6ac409796504d&creativeASIN=B077H95N5M).
 
 ## 1. My thoughts after 10-15 hours of play time
 
