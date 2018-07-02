@@ -21,7 +21,7 @@ Overall, it feels like a 9/10 stick one would find at a yard sale or on eBay. Wh
 
 #### The Not-So Good:
 - There is a slight amound of grinding on certain vertices of movement. In the case of my stick, lateral movement on the right side experienced slight grinding. Vertical movement on the upper half experienced a clicking/sticking point. The lateral grinding is less apparent while playing Smash, and more apparent while playing a racing game like MarioKart or Diddy Kong Racing, with lots of back-and-forth lateral movement on the stick. Based on my measurements, this is the result of the inside gear size and the optical cog diameter having _slight_ incongruence. More on that later, in the measurements section.
-- There is a slight stick wobble dead spot. This is a result of the upper gear being thinner than it should be on the inside. I'll show measurements on that below. Here's a video of the deadzone:
+- There is a slight stick wobble dead spot. This is a result of the upper gear being thinner than it should be on the inside. I'll show measurements on that below. Here's a video of the deadzone: https://streamable.com/s/w2ye0/rnlnht
 
 - The stick, bowl, and gears appear to be made of similar material as the original, and are thus subject to the same wear and tear as the original. Putting some super lube in the bowl helped, and will likely help with wear and tear.
 
